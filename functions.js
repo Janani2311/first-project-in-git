@@ -1,3 +1,6 @@
+//this is a day2_project
+
+
 function myfunction(a , b) {
     let result = a * b;
     return result;
